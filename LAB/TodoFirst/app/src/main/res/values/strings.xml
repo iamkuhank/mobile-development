@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoFirst</string>
+    <string name="next">Next</string>
+    <string name="preview">Preview</string>
+    <string name="text_view">Text View</string>
+
+    <string-array name="todos">
+        <item>Wake Up</item>
+        <item>Drink Coffee</item>
+        <item>Make at least one person laugh</item>
+        <item>Plant a tree</item>
+        <item>Ponder on duality of existence</item>
+        <item>Go to sleep</item>
+    </string-array>
+</resources>
